@@ -2,5 +2,5 @@
     <string name="app_name">HTML Parser</string>
     <string name="Home">TakoTest</string>
     <string name="BotonHome">Botón Takokoso</string>
-    <string name="sitioWeb">TakoSitio (https://takoko.net)</string>
+    <string name="sitioWeb">TakoSitio (https://takoko.net...)</string>
 </resources>
